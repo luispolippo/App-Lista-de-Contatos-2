@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="photo_content_description">Foto do Contato</string>
+</resources>
